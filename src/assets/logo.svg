@@ -1,0 +1,13 @@
+<svg width="800" height="300" viewBox="0 0 800 300" xmlns="http://www.w3.org/2000/svg">
+  <style>
+    @import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@800&amp;display=swap');
+    text {
+      font-family: 'Open Sans', sans-serif;
+      font-weight: 800;
+    }
+    .text-black { fill: #000000; }
+    .text-pink { fill: #FF1493; }
+  </style>
+  <text x="0" y="120" class="text-black" style="font-size: 140px;">DZIAŁKI</text>
+  <text x="0" y="240" class="text-pink" style="font-size: 140px;">ZA MNIEJ</text>
+</svg>
